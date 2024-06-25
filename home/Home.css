@@ -1,6 +1,7 @@
 body{
-    background: linear-gradient(to top,#050047, #000000,#000000);
-    background-repeat: no-repeat;
+    backround: linear-gradient(to top,#050047, #000000,#000000);
+    background-image: url("/w/Img/Dogs9.png");
+    background-repeat: repeat;
     background-attachment:fixed;
     text-align: center;
 }
